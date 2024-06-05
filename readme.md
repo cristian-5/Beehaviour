@@ -12,6 +12,8 @@ Quality of life tools for **Minecraft Java Edition** `1.20.6`
 
 ![String](./res/string.png)
 
+![Name Tag](./res/name_tag.png)
+
 ![Brown Mushroom Block](./res/brown_mushroom_block.png)
 ![Brown Mushroom Block](./res/red_mushroom_block.png)
 
@@ -50,6 +52,7 @@ Quality of life tools for **Minecraft Java Edition** `1.20.6`
 ### Smelting Recipes
 
 ![Sand](./res/sand.png)
+![Dead Bush](./res/dead_bush.png)
 ![Gunpowder](./res/gunpowder.png)
 ![Magma Cream](./res/magma_cream.png)
 
