@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "food",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": { "#": { "item": "minecraft:brown_mushroom" } },
+	"result": { "id": "minecraft:brown_mushroom_block", "count": 1 }
+}

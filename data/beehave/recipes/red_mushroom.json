@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [{ "item": "minecraft:red_mushroom_block" }],
+	"result": { "id": "minecraft:red_mushroom", "count": 4 }
+}
