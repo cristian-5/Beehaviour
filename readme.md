@@ -52,3 +52,8 @@ Quality of life tools for **Minecraft Java Edition** `1.20.6`
 ![Sand](./res/sand.png)
 ![Gunpowder](./res/gunpowder.png)
 ![Magma Cream](./res/magma_cream.png)
+
+## Credits
+
+- **Bone Meal** on sugar canes and flowers by
+[Nincodedo](https://github.com/Nincodedo/mc-java-bedrock-bone-meal-datapack).
