@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "blocks",
+	"pattern": [
+		"#",
+		"#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:cobblestone_slab"
+		}
+	},
+	"result": {
+		"id": "minecraft:cobblestone",
+		"count": 1
+	}
+}

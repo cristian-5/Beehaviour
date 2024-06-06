@@ -5,6 +5,7 @@ Quality of life tools for **Minecraft Java Edition** `1.20.6`
 
 ## Features
 
+- **Slabs** can be crafted back into their original blocks (except for copper).
 - **Bone Meal** can be used on sugar canes to grow them.
 - **Bone Meal** can be used on flowers to duplicate them.
 
