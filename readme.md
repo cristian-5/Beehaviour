@@ -5,6 +5,7 @@ Quality of life tools for **Minecraft Java Edition** `1.20.6`
 
 ## Features
 
+- Better 3D **Ladders**.
 - **Slabs** can be crafted back into their original blocks (except for copper).
 - **Bone Meal** can be used on sugar canes to grow them.
 - **Bone Meal** can be used on flowers to duplicate them.
@@ -32,6 +33,8 @@ Quality of life tools for **Minecraft Java Edition** `1.20.6`
 ![Enchanted Golden Apple](./res/enchanted_golden_apple.png)
 
 ### `3x3` Crafting Recipes
+
+![Bone](./res/bone.png)
 
 ![Mushroom Stem](./res/mushroom_stem.png)
 
