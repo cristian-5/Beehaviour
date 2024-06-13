@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:music_disc_mall"
+	},
+	"result": {
+		"id": "minecraft:music_disc_11",
+		"count": 1
+	}
+}

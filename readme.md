@@ -5,7 +5,7 @@ Quality of life tools for **Minecraft Java Edition** `1.20.6`
 
 ## Features
 
-- Better 3D **Ladders**.
+- **Disks** can be broken inside a stonecutter then made into a different disk.
 - **Slabs** can be crafted back into their original blocks (except for copper).
 - **Bone Meal** can be used on sugar canes to grow them.
 - **Bone Meal** can be used on flowers to duplicate them.
@@ -31,6 +31,21 @@ Quality of life tools for **Minecraft Java Edition** `1.20.6`
 
 ![Experience Bottle](./res/experience_bottle.png)
 ![Enchanted Golden Apple](./res/enchanted_golden_apple.png)
+
+### Music Discs
+
+![Music Disc 13](./res/music_disc_13.png)
+![Music Disc Cat](./res/music_disc_cat.png)
+![Music Disc Blocks](./res/music_disc_blocks.png)
+![Music Disc Chirp](./res/music_disc_chirp.png)
+![Music Disc Far](./res/music_disc_far.png)
+![Music Disc Mall](./res/music_disc_mall.png)
+![Music Disc Mellohi](./res/music_disc_mellohi.png)
+![Music Disc Stal](./res/music_disc_stal.png)
+![Music Disc Strad](./res/music_disc_strad.png)
+![Music Disc Ward](./res/music_disc_ward.png)
+![Music Disc Wait](./res/music_disc_wait.png)
+![Music Disc OtherSide](./res/music_disc_otherside.png)
 
 ### `3x3` Crafting Recipes
 
