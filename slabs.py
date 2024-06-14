@@ -63,7 +63,7 @@ for slab, block in block_slab_mapping.items():
 		"key": { "#": { "item": f"minecraft:{slab}" } },
 		"result": { "id": f"minecraft:{block}", "count": 1 }
 	}
-	filename = f"data/beehave/recipes/slab_{block}.json"
+	filename = f"data/beehave/recipe/slab_{block}.json"
 	with open(filename, 'w') as f:
 		json.dump(recipe, f, indent="\t")
 
