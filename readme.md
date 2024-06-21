@@ -10,6 +10,7 @@ Quality of life tools for **Minecraft Java Edition** `1.21`
 ## `2x2` Crafting Recipes
 
 ![String](./res/string.png)
+![Nether Wart](./res/nether_wart.png)
 
 ![Name Tag](./res/name_tag.png)
 
