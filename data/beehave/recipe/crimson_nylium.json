@@ -1,13 +1,16 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"category": "blocks",
-	"pattern": [
-		"#",
-		"N"
-	],
-	"key": {
-		"#": { "item": "minecraft:crimson_roots" },
-		"N": { "item": "minecraft:netherrack" }
-	},
-	"result": { "id": "minecraft:crimson_nylium", "count": 1 }
+   "type": "minecraft:crafting_shaped",
+   "pattern": [
+      "#",
+      "N"
+   ],
+   "key": {
+      "#": "minecraft:crimson_roots",
+      "N": "minecraft:netherrack"
+   },
+   "result": {
+      "id": "minecraft:crimson_nylium",
+      "count": 1
+   },
+   "category": "misc"
 }

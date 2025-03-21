@@ -1,17 +1,15 @@
 {
 	"type": "minecraft:crafting_shaped",
-	"category": "blocks",
 	"pattern": [
 		"#",
 		"#"
 	],
 	"key": {
-		"#": {
-			"item": "minecraft:stone_slab"
-		}
+		"#": "minecraft:stone_slab"
 	},
 	"result": {
 		"id": "minecraft:stone",
 		"count": 1
-	}
+	},
+	"category": "building"
 }
