@@ -24,6 +24,7 @@ Quality of life and crafting completeness Minecraft recipes
 | Saddle | <img src="./res/saddle.png" width="200" /> |
 | Slabs | <img src="./res/slabs.gif" width="200" /> |
 | String | <img src="./res/string.png" width="200" /> |
+| Tall grass | <img src="./res/tall_grass.png" width="200" /> |
 
 ### Revert recipes
 
