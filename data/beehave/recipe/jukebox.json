@@ -6,7 +6,7 @@
       "###"
    ],
    "key": {
-      "#": "minecraft:planks",
+      "#": "#minecraft:planks",
       "H": "minecraft:goat_horn"
    },
    "result": {
