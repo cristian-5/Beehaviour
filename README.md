@@ -20,6 +20,7 @@ Quality of life and crafting completeness Minecraft recipes
 | Crying obsidian | <img src="./res/crying_obsidian.png" width="200" /> |
 | Dead bush | <img src="./res/dead_bush.gif" width="200" /> |
 | Name tag | <img src="./res/name_tag.png" width="200" /> |
+| Jukebox | <img src="./res/jukebox.png" width="200" /> |
 | Lead | <img src="./res/lead.png" width="200" /> |
 | Saddle | <img src="./res/saddle.png" width="200" /> |
 | Slabs | <img src="./res/slabs.gif" width="200" /> |
