@@ -72,8 +72,6 @@ slab_block_mappings = {
    "waxed_exposed_cut_copper_slab": "waxed_exposed_cut_copper",
    "waxed_weathered_cut_copper_slab": "waxed_weathered_cut_copper",
    "waxed_oxidized_cut_copper_slab": "waxed_oxidized_cut_copper",
-	
-   "petrified_oak_slab": "petrified_oak",
 }
 
 for slab, block in slab_block_mappings.items():
