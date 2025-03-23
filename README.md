@@ -57,9 +57,13 @@ Quality of life and crafting completeness Minecraft recipes
 
 | Recipe | Preview |
 | ------ | ------- |
-| Diamond horse armor | <img src="./res/diamond_horse_armor.png" width="200" /> |
-| Golden horse armor | <img src="./res/golden_horse_armor.png" width="200" /> |
+| Chainmail helmet | <img src="./res/chainmail_helmet.png" width="200" /> |
+| Chainmail chestplate | <img src="./res/chainmail_chestplate.png" width="200" /> |
+| Chainmail leggings | <img src="./res/chainmail_leggings.png" width="200" /> |
+| Chainmail boots | <img src="./res/chainmail_boots.png" width="200" /> |
 | Iron horse armor | <img src="./res/iron_horse_armor.png" width="200" /> |
+| Golden horse armor | <img src="./res/golden_horse_armor.png" width="200" /> |
+| Diamond horse armor | <img src="./res/diamond_horse_armor.png" width="200" /> |
 
 ### Mushrooms
 
