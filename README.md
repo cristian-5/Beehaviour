@@ -50,6 +50,7 @@ Quality of life and crafting completeness Minecraft recipes
 | Crimson nylium | <img src="./res/crimson_nylium.png" width="200" /> |
 | Grass block | <img src="./res/grass_block.png" width="200" /> |
 | Mycelium | <img src="./res/mycelium.gif" width="200" /> |
+| Podzol | <img src="./res/podzol.png" width="200" /> |
 | Rooted dirt | <img src="./res/rooted_dirt.png" width="200" /> |
 | Warped nylium | <img src="./res/warped_nylium.png" width="200" /> |
 
