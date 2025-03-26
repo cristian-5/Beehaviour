@@ -1,0 +1,16 @@
+{
+   "type": "crafting_shaped",
+   "pattern": [
+      " # ",
+      "# #",
+      " # "
+   ],
+   "key": {
+      "#": "minecraft:stripped_bamboo_block"
+   },
+   "result": {
+      "id": "minecraft:bamboo_mosaic",
+      "count": 4
+   },
+   "category": "building"
+}

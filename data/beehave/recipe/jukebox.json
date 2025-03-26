@@ -1,0 +1,17 @@
+{
+   "type": "minecraft:crafting_shaped",
+   "pattern": [
+      "###",
+      "#H#",
+      "###"
+   ],
+   "key": {
+      "#": "#minecraft:planks",
+      "H": "minecraft:goat_horn"
+   },
+   "result": {
+      "id": "minecraft:jukebox",
+      "count": 1
+   },
+   "category": "misc"
+}

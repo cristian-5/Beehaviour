@@ -1,7 +1,6 @@
 {
 	"pack": {
-		"pack_format": 48,
-		"supported_formats": 48,
-		"description": "Data Correction Pack 1.3"
+		"description": "Minecraft recipe completeness",
+		"pack_format": 71
 	}
 }

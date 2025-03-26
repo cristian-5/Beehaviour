@@ -1,13 +1,16 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"category": "blocks",
-	"pattern": [
-		"#",
-		"D"
-	],
-	"key": {
-		"#": { "item": "minecraft:pitcher_pod" },
-		"D": { "item": "minecraft:dirt" }
-	},
-	"result": { "id": "minecraft:podzol", "count": 1 }
+   "type": "crafting_shaped",
+   "pattern": [
+      "#",
+      "D"
+   ],
+   "key": {
+      "#": "minecraft:leaf_litter",
+      "D": "minecraft:dirt"
+   },
+   "result": {
+      "id": "minecraft:podzol",
+      "count": 1
+   },
+   "category": "misc"
 }
