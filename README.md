@@ -1,4 +1,4 @@
-# Beehave
+# Beehaviour
 
 Quality of life and crafting completeness Minecraft recipes
 

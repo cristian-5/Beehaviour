@@ -91,7 +91,7 @@ for slab, block in slab_block_mappings.items():
 		"category": "building"
 	}
 	
-	filename = f"data/beehave/recipe/slab_{block}.json"
+	filename = f"data/beehaviour/recipe/slab_{block}.json"
 	
 	with open(filename, 'w') as f:
 		json.dump(recipe, f, indent="\t")
