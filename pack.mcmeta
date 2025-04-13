@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"description": "Minecraft recipe completeness",
-		"pack_format": 71
+		"pack_format": 71,
+		"description": "Minecraft recipe completeness"
 	}
 }
