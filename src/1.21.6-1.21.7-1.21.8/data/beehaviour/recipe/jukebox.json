@@ -1,5 +1,6 @@
 {
 	"type": "minecraft:crafting_shaped",
+	"category": "misc",
 	"pattern": [
 		"###",
 		"#H#",
@@ -12,6 +13,5 @@
 	"result": {
 		"id": "minecraft:jukebox",
 		"count": 1
-	},
-	"category": "misc"
+	}
 }

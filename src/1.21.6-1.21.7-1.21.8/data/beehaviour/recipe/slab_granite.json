@@ -1,5 +1,6 @@
 {
 	"type": "minecraft:crafting_shaped",
+	"category": "building",
 	"pattern": [
 		"#",
 		"#"
@@ -10,6 +11,5 @@
 	"result": {
 		"id": "minecraft:granite",
 		"count": 1
-	},
-	"category": "building"
+	}
 }

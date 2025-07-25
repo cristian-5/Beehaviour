@@ -1,5 +1,6 @@
 {
 	"type": "crafting_shaped",
+	"category": "building",
 	"pattern": [
 		" # ",
 		"# #",
@@ -11,6 +12,5 @@
 	"result": {
 		"id": "minecraft:bamboo_mosaic",
 		"count": 4
-	},
-	"category": "building"
+	}
 }

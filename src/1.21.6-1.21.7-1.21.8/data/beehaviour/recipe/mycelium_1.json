@@ -1,5 +1,6 @@
 {
 	"type": "minecraft:crafting_shaped",
+	"category": "misc",
 	"pattern": [
 		"R#",
 		"#B"
@@ -12,6 +13,5 @@
 	"result": {
 		"id": "minecraft:mycelium",
 		"count": 2
-	},
-	"category": "misc"
+	}
 }

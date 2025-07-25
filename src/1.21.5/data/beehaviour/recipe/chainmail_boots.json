@@ -1,5 +1,6 @@
 {
 	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
 	"pattern": [
 		"# #",
 		"# #"
@@ -10,6 +11,5 @@
 	"result": {
 		"id": "minecraft:chainmail_boots",
 		"count": 1
-	},
-	"category": "equipment"
+	}
 }

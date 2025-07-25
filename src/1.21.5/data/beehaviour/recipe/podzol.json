@@ -1,7 +1,9 @@
 {
 	"type": "crafting_shaped",
+	"category": "misc",
 	"pattern": [
-		"#","D"
+		"#",
+		"D"
 	],
 	"key": {
 		"#": "minecraft:leaf_litter",
@@ -10,6 +12,5 @@
 	"result": {
 		"id": "minecraft:podzol",
 		"count": 1
-	},
-	"category": "misc"
+	}
 }

@@ -1,5 +1,6 @@
 {
 	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
 	"pattern": [
 		" # ",
 		"#I#"
@@ -11,6 +12,5 @@
 	"result": {
 		"id": "minecraft:saddle",
 		"count": 1
-	},
-	"category": "equipment"
+	}
 }

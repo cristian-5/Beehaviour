@@ -1,5 +1,6 @@
 {
 	"type": "minecraft:crafting_shaped",
+	"category": "misc",
 	"pattern": [
 		"  #",
 		" # ",
@@ -11,6 +12,5 @@
 	"result": {
 		"id": "minecraft:bone",
 		"count": 1
-	},
-	"category": "misc"
+	}
 }

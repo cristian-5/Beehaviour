@@ -1,5 +1,6 @@
 {
 	"type": "minecraft:crafting_shaped",
+	"category": "misc",
 	"pattern": [
 		" #",
 		"L "
@@ -11,6 +12,5 @@
 	"result": {
 		"id": "minecraft:name_tag",
 		"count": 1
-	},
-	"category": "misc"
+	}
 }

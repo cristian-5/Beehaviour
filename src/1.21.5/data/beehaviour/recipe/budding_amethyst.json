@@ -1,5 +1,6 @@
 {
 	"type": "minecraft:crafting_shaped",
+	"category": "misc",
 	"pattern": [
 		"#A#",
 		"A#A",
@@ -12,6 +13,5 @@
 	"result": {
 		"id": "minecraft:budding_amethyst",
 		"count": 1
-	},
-	"category": "misc"
+	}
 }

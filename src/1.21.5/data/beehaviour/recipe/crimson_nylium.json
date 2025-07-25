@@ -1,5 +1,6 @@
 {
 	"type": "minecraft:crafting_shaped",
+	"category": "misc",
 	"pattern": [
 		"#",
 		"N"
@@ -11,6 +12,5 @@
 	"result": {
 		"id": "minecraft:crimson_nylium",
 		"count": 1
-	},
-	"category": "misc"
+	}
 }
