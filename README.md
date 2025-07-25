@@ -21,6 +21,7 @@ Quality of life and crafting completeness Minecraft recipes
 | Bone            | <img src="./res/bone.png" width="200" />            |
 | Crying obsidian | <img src="./res/crying_obsidian.png" width="200" /> |
 | Dead bush       | <img src="./res/dead_bush.gif" width="200" />       |
+| Green dye       | <img src="./res/green_dye.png" width="200" />       |
 | Name tag        | <img src="./res/name_tag.png" width="200" />        |
 | Jukebox         | <img src="./res/jukebox.png" width="200" />         |
 | Slabs           | <img src="./res/slabs.gif" width="200" />           |
