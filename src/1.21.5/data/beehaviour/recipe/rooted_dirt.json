@@ -1,15 +1,15 @@
 {
-   "type": "minecraft:crafting_shaped",
-   "pattern": [
-      "D#",
-      "#D"
-   ],
-   "key": {
-      "#": "minecraft:stick",
-      "D": "minecraft:dirt"
-   },
-   "result": {
-      "id": "minecraft:rooted_dirt",
-      "count": 2
-   }
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"D#",
+		"#D"
+	],
+	"key": {
+		"#": "minecraft:stick",
+		"D": "minecraft:dirt"
+	},
+	"result": {
+		"id": "minecraft:rooted_dirt",
+		"count": 2
+	}
 }

@@ -64,14 +64,14 @@ slab_block_mappings = {
 	"quartz_slab": "quartz_block",
 	"smooth_quartz_slab": "smooth_quartz",
 	
-   "cut_copper_slab": "cut_copper",
+	"cut_copper_slab": "cut_copper",
 	"exposed_cut_copper_slab": "exposed_cut_copper",
-   "weathered_cut_copper_slab": "weathered_cut_copper",
-   "oxidized_cut_copper_slab": "oxidized_cut_copper",
-   "waxed_cut_copper_slab": "waxed_cut_copper",
-   "waxed_exposed_cut_copper_slab": "waxed_exposed_cut_copper",
-   "waxed_weathered_cut_copper_slab": "waxed_weathered_cut_copper",
-   "waxed_oxidized_cut_copper_slab": "waxed_oxidized_cut_copper",
+	"weathered_cut_copper_slab": "weathered_cut_copper",
+	"oxidized_cut_copper_slab": "oxidized_cut_copper",
+	"waxed_cut_copper_slab": "waxed_cut_copper",
+	"waxed_exposed_cut_copper_slab": "waxed_exposed_cut_copper",
+	"waxed_weathered_cut_copper_slab": "waxed_weathered_cut_copper",
+	"waxed_oxidized_cut_copper_slab": "waxed_oxidized_cut_copper",
 }
 
 for slab, block in slab_block_mappings.items():
