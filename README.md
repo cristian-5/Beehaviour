@@ -23,7 +23,6 @@ Quality of life and crafting completeness Minecraft recipes
 | Dead bush       | <img src="./res/dead_bush.gif" width="200" />       |
 | Name tag        | <img src="./res/name_tag.png" width="200" />        |
 | Jukebox         | <img src="./res/jukebox.png" width="200" />         |
-| Lead            | <img src="./res/lead.png" width="200" />            |
 | Slabs           | <img src="./res/slabs.gif" width="200" />           |
 | String          | <img src="./res/string.png" width="200" />          |
 | Tall grass      | <img src="./res/tall_grass.png" width="200" />      |
@@ -66,7 +65,6 @@ Quality of life and crafting completeness Minecraft recipes
 | Iron horse armor     | <img src="./res/iron_horse_armor.png" width="200" />     |
 | Golden horse armor   | <img src="./res/golden_horse_armor.png" width="200" />   |
 | Diamond horse armor  | <img src="./res/diamond_horse_armor.png" width="200" />  |
-| Saddle               | <img src="./res/saddle.png" width="200" />               |
 
 ### Mushrooms
 

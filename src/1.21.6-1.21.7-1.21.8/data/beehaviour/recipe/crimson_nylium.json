@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"#",
+		"N"
+	],
+	"key": {
+		"#": "minecraft:crimson_roots",
+		"N": "minecraft:netherrack"
+	},
+	"result": {
+		"id": "minecraft:crimson_nylium",
+		"count": 1
+	},
+	"category": "misc"
+}
