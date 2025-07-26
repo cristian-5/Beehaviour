@@ -19,6 +19,7 @@ Quality of life and crafting completeness Minecraft recipes
 | --------------- | --------------------------------------------------- |
 | Bamboo mosaic   | <img src="./res/bamboo_mosaic.png" width="200" />   |
 | Bone            | <img src="./res/bone.png" width="200" />            |
+| Calcite         | <img src="./res/calcite.png" width="200" />         |
 | Crying obsidian | <img src="./res/crying_obsidian.png" width="200" /> |
 | Dead bush       | <img src="./res/dead_bush.gif" width="200" />       |
 | Green dye       | <img src="./res/green_dye.png" width="200" />       |
