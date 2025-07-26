@@ -1,14 +1,7 @@
 {
-	"type": "minecraft:crafting_shaped",
+	"type": "minecraft:crafting_shapeless",
 	"category": "misc",
-	"pattern": [
-		" #",
-		"L "
-	],
-	"key": {
-		"#": "minecraft:iron_nugget",
-		"L": "minecraft:leather"
-	},
+	"ingredients": ["minecraft:iron_nugget", "minecraft:leather"],
 	"result": {
 		"id": "minecraft:name_tag",
 		"count": 1
