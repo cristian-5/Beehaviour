@@ -1,6 +1,7 @@
 {
-	"type": "minecraft:stonecutting",
-	"ingredient": "minecraft:dripstone_block",
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": ["minecraft:dripstone_block"],
 	"result": {
 		"id": "minecraft:pointed_dripstone",
 		"count": 4
