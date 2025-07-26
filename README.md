@@ -36,6 +36,8 @@ Quality of life and crafting completeness Minecraft recipes
 | Glowstone dust    | <img src="./res/glowstone_dust.png" width="200" />                                                                            |
 | Nether wart       | <img src="./res/nether_wart.png" width="200" />                                                                               |
 | Pointed dripstone | <img src="./res/pointed_dripstone.png" width="200" /> <br /><img src="./res/pointed_dripstone_stonecutter.png" width="200" /> |
+| Red sand          | <img src="./res/red_sand.png" width="200" /> <br /> <img src="./res/red_sand_stonecutter.png" width="200" />                                  |
+| Sand              | <img src="./res/sand.png" width="200" /> <br /> <img src="./res/sand_stonecutter.png" width="200" />                                          |
 
 ### Amethyst
 
