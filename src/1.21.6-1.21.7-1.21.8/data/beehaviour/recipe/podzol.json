@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shaped",
-	"category": "misc",
+	"category": "building",
 	"pattern": [
 		"#",
 		"D"
@@ -12,5 +12,5 @@
 	"result": {
 		"id": "minecraft:podzol",
 		"count": 1
-	},
+	}
 }
