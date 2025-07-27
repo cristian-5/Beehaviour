@@ -1,6 +1,6 @@
 # Beehaviour
 
-Quality of life and crafting completeness Minecraft recipes
+The crafting system is a core part of Minecraft, but sometimes it lacks some of the most basic recipes. Introducing these missing recipes enables more compact storage, material reusability, and craft certain items that shouldn't be that difficult to get.
 
 ## Recipes
 
