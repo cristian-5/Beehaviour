@@ -1,9 +1,7 @@
 {
 	"type": "minecraft:crafting_shapeless",
 	"category": "misc",
-	"ingredients": [
-		"minecraft:cyan_wool"
-	], 
+	"ingredients": ["#minecraft:wool"],
 	"result": {
 		"id": "minecraft:string",
 		"count": 4
