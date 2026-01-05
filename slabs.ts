@@ -1,4 +1,4 @@
-const fs = require('fs');
+import fs from 'node:fs';
 
 const slabBlockMappings = {
 	oak_slab: 'oak_planks',
@@ -87,7 +87,7 @@ for (const [slab, block] of Object.entries(slabBlockMappings)) {
 		},
 	};
 
-	const filename = `data/beehaviour/recipe/slab_${block}.json`;
+	const filename = `./src/mc/data/beehaviour/recipe/slab_${block}.json`;
 
 	fs.writeFileSync(filename, JSON.stringify(recipe, null, '\t') + '\n');
 }
