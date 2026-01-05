@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"#",
+		"D"
+	],
+	"key": {
+		"#": "minecraft:leaf_litter",
+		"D": "minecraft:dirt"
+	},
+	"result": {
+		"id": "minecraft:podzol",
+		"count": 1
+	}
+}

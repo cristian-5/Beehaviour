@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"#A#",
+		"A#A",
+		"#A#"
+	],
+	"key": {
+		"#": "minecraft:obsidian",
+		"A": "minecraft:amethyst_shard"
+	},
+	"result": {
+		"id": "minecraft:crying_obsidian",
+		"count": 1
+	}
+}
