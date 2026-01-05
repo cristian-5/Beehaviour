@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": ["minecraft:iron_nugget", "minecraft:leather"],
+	"result": {
+		"id": "minecraft:name_tag",
+		"count": 1
+	}
+}

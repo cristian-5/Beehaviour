@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "building",
+	"ingredients": ["minecraft:diorite", "minecraft:cobblestone"],
+	"result": {
+		"id": "minecraft:air",
+		"count": 2
+	}
+}
